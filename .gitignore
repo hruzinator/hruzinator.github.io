@@ -1,1 +1,4 @@
 *.c9/*
+*.sublime-project
+*.swp
+*.sublime-workspace
